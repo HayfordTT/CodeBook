@@ -67,7 +67,8 @@
        dim(Y)
        dim(Subject)
        dim(Merged_Data)
-       #The old FIle and the new Fmerged files Have the same dimensions
+
+       #The old FIle and the new merged files Have the same dimensions
                 dim(X)
        [1] 10299   561
        >        dim(Y)
